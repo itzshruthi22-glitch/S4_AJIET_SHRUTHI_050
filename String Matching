@@ -1,0 +1,12 @@
+class Main {
+    public static void main(String[] args) {
+        String gk = "Hello";
+        String a = "Hi";
+
+        if (gk.equals(a)) {
+            System.out.println("Strings are equal");
+        } else {
+            System.out.println("Strings are not equal");
+        }
+    }
+}
